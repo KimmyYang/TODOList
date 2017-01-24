@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TODOList</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_todo_list">Kimmy\'s TODOList</string>
+    <string name="addBtn">Add</string>
+    <string name="deleteBtn">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="datetime">DateTime(Y-M-D):</string>
+    <string name="task">Task</string>
+    <string name="isFinish">Finish</string>
+
+</resources>
