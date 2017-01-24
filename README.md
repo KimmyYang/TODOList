@@ -1,8 +1,10 @@
 # TODOList
-Android APK for recording TODO task and sync with server(google execel).
+It's an Android APK uses for recording TODO task and sync TODO task with server.
+
 Environment:
   - Android API 23
   - JSON format
+  - server(google execel, API:sheetsu)
 
 Function:
   - Local DB
